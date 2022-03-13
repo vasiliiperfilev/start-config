@@ -45,8 +45,9 @@ module.exports = {
         loader: 'babel-loader',
         options: {
           presets: ['airbnb']
+          }
         }
-      }
-    ],
+      },
+    ]
   },
 };
